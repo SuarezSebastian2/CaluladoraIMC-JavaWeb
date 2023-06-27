@@ -1,5 +1,5 @@
 
-# Calculadora de Indice de Masa Corporal web
+# Calculadora de Indice de Masa Corporal - Web
 
 ![image](https://github.com/SuarezSebastian2/SenaWeb/assets/78248849/badcb4d9-0210-499e-a2eb-cc143e736ec8)
 
